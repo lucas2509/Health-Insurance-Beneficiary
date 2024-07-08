@@ -26,7 +26,7 @@ Há 2 maneiras diferentes para execução da aplicação, através do docker ou 
 **Local** : Para iniciar a aplicação localmente deve-se adicionar um banco de dados MySQL com os parametros definidos em src\main\resources\application.properties e executar os seguintes comandos para buildar a aplicação e executa-la:
 
     $ mvn package
-    $ java -jar target/Covid19.jar
+    $ java -jar target/HealthInsuranceBeneficiary.jar
     
 ## ✅ Testes unitários 
 
